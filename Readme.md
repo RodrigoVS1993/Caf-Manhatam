@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Café Manhatam é o projeto de um site, feito para praticar HTML e CSS.
 
-Para acessar o site, [clique aqui]().
+Para acessar o site, [clique aqui](https://rodrigovs1993.github.io/Caf-Manhatam/).
